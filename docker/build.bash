@@ -17,7 +17,7 @@
 #
 #
 
-IMAGE_NAME="ariac2021_devel_env"
+IMAGE_NAME="hexapod_devel_env"
 DOCKERFILE_PATH="."
 
 if [ ! -f $DOCKERFILE_PATH/Dockerfile ]

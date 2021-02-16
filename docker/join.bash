@@ -17,7 +17,7 @@
 #
 #
 
-IMAGE_NAME="ariac2021_devel_env"
+IMAGE_NAME="hexapod_devel_env"
 
 xhost +
 CONTAINER_ID=$(docker ps -aqf "ancestor=${IMAGE_NAME}")

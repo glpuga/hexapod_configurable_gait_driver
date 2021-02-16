@@ -92,6 +92,7 @@ RUN /bin/sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable
     lib${GAZ}-dev \
     ros-${DIST}-gazebo-plugins \
     ros-${DIST}-gazebo-ros \
+    ros-${DIST}-gazebo-ros-control \
     ros-${DIST}-xacro \
  && apt clean
 # This seems to be needed to launch Gazebo on this setup
