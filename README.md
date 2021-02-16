@@ -2,7 +2,7 @@
 
 This repository has submodules, you need to clone with 
 
-git clone --recursive git@github.com:glpuga/hexapod_configurable_gait_project.git
+git clone --recursive git@github.com:glpuga/hexapod_configurable_gait_driver.git
 
 # Build and run
 
