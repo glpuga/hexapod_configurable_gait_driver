@@ -1,0 +1,9 @@
+[submodule "external/phantomx_gazebo"]
+	path = external/phantomx_gazebo
+	url = git@github.com:HumaRobotics/phantomx_gazebo.git
+[submodule "external/phantomx_description"]
+	path = external/phantomx_description
+	url = git@github.com:HumaRobotics/phantomx_description.git
+[submodule "external/phantomx_control"]
+	path = external/phantomx_control
+	url = git@github.com:HumaRobotics/phantomx_control.git
